@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38d4b784-8ee3-4551-b312-4bce304e2ce8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGoSdN5wzhXLlxpcKMJLv01ddP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonWorkspace\geekpramming\str" />
+      <recent name="D:\pythonWorkspace\geekpramming\homework" />
+      <recent name="D:\pythonWorkspace\geekpramming\while" />
+      <recent name="D:\pythonWorkspace\geekpramming\if" />
+      <recent name="D:\pythonWorkspace\geekpramming\basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.listDemo02">
+    <configuration name="StrDemo14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekpramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/str" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str/StrDemo14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StrDemo18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekpramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/str" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str/StrDemo18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StrDemo19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekpramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/str" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str/StrDemo19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekpramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listDemo01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listDemo01/listDemo01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listDemo02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekpramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listDemo01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listDemo01/listDemo02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.listDemo02" />
+        <item itemvalue="Python.listDemo01" />
+        <item itemvalue="Python.StrDemo19" />
+        <item itemvalue="Python.StrDemo18" />
+        <item itemvalue="Python.StrDemo14" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38d4b784-8ee3-4551-b312-4bce304e2ce8" name="Default Changelist" comment="" />
+      <created>1584474793055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584474793055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="37" key="#02" timestamp="1585613422621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="37" key="#02/0.0.1536.824@0.0.1536.824" timestamp="1585613422621" />
+    <state x="823" y="176" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585175043488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="823" y="176" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585175043488" />
+    <state width="599" height="163" key="GridCell.Tab.0.bottom" timestamp="1585782313877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="599" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585782313877" />
+    <state width="599" height="163" key="GridCell.Tab.0.center" timestamp="1585782313877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="599" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585782313877" />
+    <state width="599" height="163" key="GridCell.Tab.0.left" timestamp="1585782313877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="599" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585782313877" />
+    <state width="599" height="163" key="GridCell.Tab.0.right" timestamp="1585782313877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="599" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585782313877" />
+    <state width="792" height="233" key="GridCell.Tab.1.bottom" timestamp="1585695972420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="792" height="233" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585695972420" />
+    <state width="792" height="233" key="GridCell.Tab.1.center" timestamp="1585695972420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="792" height="233" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585695972420" />
+    <state width="792" height="233" key="GridCell.Tab.1.left" timestamp="1585695972420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="792" height="233" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585695972420" />
+    <state width="792" height="233" key="GridCell.Tab.1.right" timestamp="1585695972420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="792" height="233" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585695972420" />
+    <state x="540" y="29" key="SettingsEditor" timestamp="1584476529481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="29" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584476529481" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586373435888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586373435887" />
+    <state x="560" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585608683736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1585608683736" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585693763354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585693763354" />
+  </component>
+</project>
